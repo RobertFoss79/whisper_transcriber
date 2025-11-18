@@ -1,6 +1,6 @@
 Whisper Transcription Tools
 
-This project contains two Python scripts for transcribing audio files using OpenAI's Whisper model.
+This project contains two Python scripts for transcribing audio files using OpenAI's Whisper model., written using Gemini AI.
 
 whisper_batch.py: Automatically transcribes all MP3s in a specific "todo" folder.
 
