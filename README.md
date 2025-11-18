@@ -1,5 +1,7 @@
 Whisper Transcription Tools
 
+Taking notes and trying to rememeber what I was typing and listen at the same time just doesn't work well. And constantly pausing to take notes resulted in a one hour lesson taking upwards of two to three hours. So, I wanted a program to transcribe the MP3 file for me. Then, I copy and paste the transcription into AI and get the notes for the lesson so I can just follow along and pay attention. This program is the result of that need for myself.
+
 This project contains two Python scripts for transcribing audio files using OpenAI's Whisper model., written using Gemini AI.
 
 whisper_batch.py: Automatically transcribes all MP3s in a specific "todo" folder.
