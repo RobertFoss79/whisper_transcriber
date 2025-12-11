@@ -5,10 +5,10 @@ import glob
 
 # --- CONFIGURATION ---
 # The folder where you drop your MP3s
-SOURCE_FOLDER = r"C:\Users\Rober\Desktop\todo"
+SOURCE_FOLDER = r"F:\Ephesians"
 
 # The folder where the text files will be saved
-OUTPUT_FOLDER = r"C:\Users\Rober\Desktop\Transcribed Lessons"
+OUTPUT_FOLDER = r"G:\My Drive\Study Transcriptions"
 
 MODEL_SIZE = "large" 
 OUTPUT_FILE_SUFFIX = '_output.txt'
