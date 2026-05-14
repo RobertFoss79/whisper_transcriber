@@ -5,7 +5,7 @@ import glob
 
 # --- CONFIGURATION ---
 # The folder where you drop your MP3s
-SOURCE_FOLDER = r"F:\Ephesians"
+SOURCE_FOLDER = r"H:\Ephesians (1985)"
 
 # The folder where the text files will be saved
 OUTPUT_FOLDER = r"G:\My Drive\Study Transcriptions"
